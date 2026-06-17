@@ -1,0 +1,1 @@
+crie um site na linguagem index.html,style.css e script.js,separadamente,preciso que seja simples e aplicável no ambiente escolar,onde aparece na tela a frase o estudo... e a frase que completa vai sendo alterada conforme a pessoa clica,exemplo: o estudo abre portas para o futuro,etc. faça os comandos de forma simples
